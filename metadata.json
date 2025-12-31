@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Global Media Hub",
+  "description": "A full-featured responsive website that uses the TMDB API to display metadata for movies, series, and dramas from all around the world, including Pakistani, Indian, Korean, Turkish, Chinese, and Western content.",
+  "requestFramePermissions": []
+}

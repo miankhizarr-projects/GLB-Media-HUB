@@ -32,18 +32,18 @@
 
 **Prerequisites:**  Node.js
 
-##1.  **Clone the repository**  
+## 1.  **Clone the repository**  
     ```bash
     git clone https://github.com/your-username/global-media-hub.git
     cd global-media-hub
     ```  
-##2.  **Open the project in command prompt**  
+## 2.  **Open the project in command prompt**  
 1. Install dependencies:
    `npm install`
 2. Set the `TMBD_API_KEY` in [.env](.env)
 3. Run the app:
    `npm run dev`  
-##🌐 Deployment  
+## 🌐 Deployment  
 **Deploy to Vercel**  
 https://vercel.com/button  
 **Deploy to Netlify**  

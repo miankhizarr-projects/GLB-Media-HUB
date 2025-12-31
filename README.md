@@ -32,22 +32,39 @@
 
 **Prerequisites:**  Node.js
 
-## 1.  **Clone the repository**  
+- 1.  **Clone the repository**  
     ```bash
     git clone https://github.com/your-username/global-media-hub.git
     cd global-media-hub
     ```  
-## 2.  **Open the project in command prompt**  
+- 2.  **Open the project in command prompt**  
 1. Install dependencies:
    `npm install`
 2. Set the `TMBD_API_KEY` in [.env](.env)
 3. Run the app:
    `npm run dev`  
-## 🌐 Deployment  
-**Deploy to Vercel**  
-https://vercel.com/button  
-**Deploy to Netlify**  
-https://www.netlify.com/img/deploy/button.svg  
+
+> # Deployment  
+
+### Vercel  
+
+Host your own instance of anime-api on vercel  
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/miankhizarr-projects/GLB-Media-HUB.git)  
+
+
+### Render  
+
+Host your own instance of anime-api on Render  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/miankhizarr-projects/GLB-Media-HUB.git)  
+
+### Netlify  
+
+Host your own instance of anime-api on Netlify  
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/miankhizarr-projects/GLB-Media-HUB.git)  
+
 
 ## 📁 Project Structure
 

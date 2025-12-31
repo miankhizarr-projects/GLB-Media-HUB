@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://i.ibb.co/FqLs6s3q/Annotation-2025-10-26-054943.png" />
 </div>
 
 ## 🌟 Overview
@@ -32,22 +32,23 @@
 
 **Prerequisites:**  Node.js
 
-##1.  **Clone the repository**
+##1.  **Clone the repository**  
     ```bash
     git clone https://github.com/your-username/global-media-hub.git
     cd global-media-hub
-    ```
-##2.  **Open the project in command prompt**
+    ```  
+##2.  **Open the project in command prompt**  
 1. Install dependencies:
    `npm install`
 2. Set the `TMBD_API_KEY` in [.env](.env)
 3. Run the app:
-   `npm run dev`
-##🌐 Deployment
-**Deploy to Vercel**
-https://vercel.com/button
-**Deploy to Netlify**
-https://www.netlify.com/img/deploy/button.svg
+   `npm run dev`  
+##🌐 Deployment  
+**Deploy to Vercel**  
+https://vercel.com/button  
+**Deploy to Netlify**  
+https://www.netlify.com/img/deploy/button.svg  
+
 ## 📁 Project Structure
 
 ```text
